@@ -2,6 +2,8 @@
 
 Bit, named after a binary digit, is a small companion to sit by you as you work. He is still a Work in Progress awaiting future upgrades. As of now Bit can look side to side and blink.
 
+<img src="Pictures/BitPicture.jpg" width="400">
+
 ## Change Log
 - 09/25/2026: Gave Bit the happy emote on start up
 - 09/11/2026: Changed unnecessary strings to Booleans to fix an SRAM storage issue
